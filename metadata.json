@@ -1,0 +1,6 @@
+{
+  "name": "Nutapos POS - Kasir & Manajemen Stok Pintar",
+  "description": "Sistem kasir dan POS modern dengan foto produk, pembayaran digital QRIS real-time, laporan penjualan otomatis, dan sistem inventaris terpadu dengan notifikasi stok rendah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
